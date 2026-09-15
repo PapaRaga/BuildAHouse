@@ -11,7 +11,7 @@ def calculate_area(length, width):
 
 def calculate_volume(area, thickness):
 
-    volume = area* thickness
+    volume = area * thickness
     return volume
 
 def calculate_cost(volume, price_per_m3):
